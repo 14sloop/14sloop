@@ -5,4 +5,5 @@
 编程语言 Fortran ;C ;Python
 课程笔记 量子场论 ；规范场论 ；广义相对论导论 ；
 可能会写些奇怪的东西：剧评？影射言论？一些胡思乱想？
+如有帮助，可以赞助我一杯声声乌龙
 ![image](https://github.com/14sloop/git-demo-1/blob/main/alipay-re)
